@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/niloymridul/osprereqs/assets/139414980/14148678-3d21-4da3-acb6-9cfb9ddf9903" height="40%" width="40%" alt="Kali Linux logo"/>
+<img src="https://github.com/niloymridul/vpntalked/assets/139414980/c05e510e-3ff8-4b2c-84d7-371606a83375" height="40%" width="40%" alt="Kali Linux logo"/>
 </p>
 
 <h1> Virtual Private Networks Explained and Shown</h1>
