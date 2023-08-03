@@ -14,8 +14,6 @@ Welcome to the VPN tutorial. This part of the tutorial will be explaining the us
 <h2>Project Steps</h2>
 
 <p>
-VPN Tutorial
-
 Welcome to the Virtual Private Network tutorial. Here we are going to talk about VPN's and what they do. But before we talk about VPN's we need to start with the basics. What is a modem and a router.
 
 When it comes to tech like these, most people just have it installed via there internet service provided(Verizon, Spectrum and any other company that provides internet services). A modem is the box that connects your home network to your internet service provide. A router is the box that connects all your wireless and wired devices together. A home network is all the devices connected to your router at your own home work place. A Hotspot(which public networks often use) are business class routers/hardware set up throughout the area so that anyone can connect to it. 
