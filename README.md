@@ -12,10 +12,6 @@ Welcome to the VPN tutorial. This part of the tutorial will be explaining the us
   
 <h2>Project Steps</h2>
 
-<p align="center">
-<img src="https://github.com/niloymridul/osconfig/assets/139414980/3fd82e6f-64e9-4082-b468-5f744be89659" height="50%" width="50%" alt="osTicket Login"/>
-</p>
-
 <p>
 VPN Tutorial
 
