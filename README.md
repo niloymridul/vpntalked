@@ -9,6 +9,7 @@ Welcome to the VPN tutorial. This part of the tutorial will be explaining the us
 
 - Microsoft Azure
 - Virtual Machines
+- ProtonVPN 
   
 <h2>Project Steps</h2>
 
