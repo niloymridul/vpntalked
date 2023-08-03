@@ -17,14 +17,19 @@ Welcome to the VPN tutorial. This part of the tutorial will be explaining the us
 </p>
 
 <p>
-Welcome back to the second part of the tutorial. This part of the tutorial is where we will give you an understanding of the osTicket interface, the roles in it, and the ticketing system we use to work it. Before we begin please log in to your account. Hopefully, remember the password and username. Feel free to experiment along the way.
+VPN Tutorial
 
-<p align="center">
-<img src="https://github.com/niloymridul/osconfig/assets/139414980/f45ca2cd-3f7c-4cff-bd48-d4401cc99e3d" height="70%" width="70%" alt="supreme admin osticket"/>
-</p>
+Welcome to the Virtual Private Network tutorial. Here we are going to talk about VPN's and what they do. But before we talk about VPN's we need to start with the basics. What is a modem and a router.
 
-First, we are going to configure roles. We will need to make and address a Supreme Admin as that is the person who has total control over everything. Click Admin Panel -> Agents and then click Roles. Go ahead and give it every permission for tickets, tasks, and knowledgebase. Now the person for this role can do anything and everything.
+When it comes to tech like these, most people just have it installed via there internet service provided(Verizon, Spectrum and any other company that provides internet services). A modem is the box that connects your home network to your internet service provide. A router is the box that connects all your wireless and wired devices together. A home network is all the devices connected to your router at your own home work place. A Hotspot(which public networks often use) are business class routers/hardware set up throughout the area so that anyone can connect to it. 
 
-<p align="center">
-<img src="https://github.com/niloymridul/osconfig/assets/139414980/8cd2f80e-a596-4170-97a4-78fa8755be79" height="60%" width="60%" alt="Kali Linux logo"/>
-</p>
+Now, Virtual Private Networks are (as the title says) a private network. These are established when you download the software and turn it on and connect to the location you wish to connect to(more on that later.) While there are home networks, there are also other forms. Some places have public networks you can access but there is a problem with them.
+
+Because some locations are public that means any devices/anyone can connect to them. Let's say for example, you arrive in a Cafe and you need to send an email to your boss before a deadline that is coming up. You connect to the cafe's local network. Unlike your home/local network, cafe's use hotspots but they still have the same process of connecting everything into one network.
+
+Let's say you try to connect to the local wifi. When you do, you see they are two wifi spots that have the same name but one's capitalized and the other isn't. You connect to one of them without giving a care and now all of a sudden, your computer is suddenly slow and crashing because all of it's ram and cpu being used entirely all of a sudden. 
+
+Now this is just one out of many scenarios when getting attacked digitally after connecting to public wifi. When you use your home router and modem setup, no one else outside of the people you know and have permission can use the internet.  And with certain modem's and routers, you can even add certain controls such as password protection, website filtering, time restrictions and more. With public wifi such as cafe's, do not have these controls and you do not know who is connected. And with hotspots, they can also use tools to see other people's IP address and more information because they are connected to the internet and you share connections with everyone else.
+
+VPN's help prevent forms of hacking happening as VPN can hide your IP address making it harder to detect your location. VPN's also encrypt's your data so that when you send data to do work it will prevent any one else from being able to unlock and see it. Note: Encryption is converting data into code that hides the info's true meaning. 
+
