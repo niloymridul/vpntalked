@@ -18,15 +18,28 @@ VPN Tutorial
 
 Welcome to the Virtual Private Network tutorial. Here we are going to talk about VPN's and what they do. But before we talk about VPN's we need to start with the basics. What is a modem and a router?
 
+<p align="center">
+<img src="https://github.com/niloymridul/vpntalked/assets/139414980/c8854cb5-8930-40cc-b454-7507f250d3de" height="70%" width="70%" alt="Create Azure VM"/>
+</p>
+
 When it comes to tech like this, most people just have it installed via their internet service provided(Verizon, Spectrum, and any other company that provides internet services). A modem is a box that connects your home network to your internet service provider. A router is a box that connects all your wireless and wired devices together. A home network is all the devices connected to your router at your own home workplace. A Hotspot(which public networks often use) are business-class router/hardware set up throughout the area so that anyone can connect to it. 
 
 Now, Virtual Private Networks are (as the title says) private networks. These are established when you download the software and turn it on and connect to the location you wish to connect to(more on that later.) While there are home networks, there are also other forms. Some places have public networks you can access but there is a problem with them.
+
+
+<p align="center">
+<img src="https://github.com/niloymridul/vpntalked/assets/139414980/fc717210-77bf-4357-a5f4-313cac3f3dcb" height="70%" width="70%" alt="Create Azure VM"/>
+</p>
 
 Because some locations are public that means any devices/anyone can connect to them. Let's say, for example, you arrive at a Cafe and you need to send an email to your boss before a deadline that is coming up. You connect to the cafe's local network. Unlike your home/local network, cafes use hotspots but they still have the same process of connecting everything into one network.
 
 Let's say you try to connect to the local wifi. When you do, you see they are two wifi spots that have the same name but one's capitalized and the other isn't. You connect to one of them without giving care and now all of a sudden, your computer is suddenly slow and crashing because all of its ram and CPU are being used entirely all of a sudden. 
 
 Now this is just one out of many scenarios when getting attacked digitally after connecting to public wifi. When you use your home router and modem setup, no one else outside of the people you know and have permission can use the internet.  And with certain modems and routers, you can even add certain controls such as password protection, website filtering, time restrictions, and more. With public wifi such as cafes, do not have these controls and you do not know who is connected. And with hotspots, they can also use tools to see other people's IP addresses and more information because they are connected to the internet and you share connections with everyone else.
+
+<p align="center">
+<img src="https://github.com/niloymridul/vpntalked/assets/139414980/bd39d649-348e-4faf-bfb7-07714e2d30f7" height="70%" width="70%" alt="VPNS DIAGRAM"/>
+</p>
 
 VPNs help prevent forms of hacking happening as VPNs can hide your IP address making it harder to detect your location. VPNs also encrypts your data so that when you send data to do work it will prevent anyone else from being able to unlock and see it. Note: Encryption is converting data into code that hides the data's actual information until it is decrypted. The only way to decrypt data is to have the password for it thus making it harder, if not, impossible to look at said data. 
 
@@ -48,7 +61,7 @@ The first thing we will do is check our IP address. While there are many ways to
 With this in mind, we are now going to create a Virtual Machine in Azure. First, log in to your Azure account. Make one if you haven't done it. When you hit create we are going to fill out some information. 
 
 <p align="center">
-<img src="https://github.com/niloymridul/vpntalked/assets/139414980/d6ea381e-2398-4980-b555-3a0ae244d409)" height="70%" width="70%" alt="Create Azure VM"/>
+<img src="https://github.com/niloymridul/vpntalked/assets/139414980/d6ea381e-2398-4980-b555-3a0ae244d409" height="70%" width="70%" alt="Create Azure VM"/>
 </p>
 
 We will have to create a Resource Group first. You can name it whatever you want, just make sure one is created so that we can ensure that our VM can have all its information stored somewhere. Name it whatever you want as well so long as it is remembered. The region should be whatever it is you want so in this case I will make it Canada Central so that the VM's IP Address will be different than the one we checked beforehand. 
